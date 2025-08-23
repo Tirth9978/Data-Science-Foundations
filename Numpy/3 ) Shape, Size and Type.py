@@ -6,5 +6,5 @@ arr = np.array([[1,2,3],
 # Finding the Shape of the Matrix :
 print(arr.shape)
 
-
-# Output will be the 2 x 3
+# Finding the Size which means number of elements in the array 
+print(arr.size)
