@@ -14,3 +14,11 @@ print(arr1)
 # With perticular value 
 arr = np.full((2,5),9978)
 print(arr)
+
+# Arange the Value with string , end and step
+arr = np.arange(1,10,3)
+print(arr)
+
+# To create the indentity Matrix : 
+arr = np.eye(4)
+print(arr)
