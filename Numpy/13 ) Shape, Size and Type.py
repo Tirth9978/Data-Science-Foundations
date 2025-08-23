@@ -8,3 +8,9 @@ print(arr.shape)
 
 # Finding the Size which means number of elements in the array 
 print(arr.size)
+
+# Finding the Diamansion of an array 
+print(arr.ndim)
+
+# Finding the Data Type of an elemts 
+print(arr.dtype)
