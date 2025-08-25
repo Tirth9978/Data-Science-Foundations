@@ -22,3 +22,7 @@ print(arr)
 # To create the indentity Matrix : 
 arr = np.eye(4)
 print(arr)
+
+# Clreat matrix with random Values
+arr = np.random.randint(1,10,(4,4))
+print(arr)
